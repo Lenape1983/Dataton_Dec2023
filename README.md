@@ -66,13 +66,13 @@
    ```
 2. Запустить venv в общей папке:
     ```
-    for MAC and Linux:
+   # for MAC and Linux:
    # python3 -m venv venv
    # . venv/bin/activate
 
-    for Windows:
-    # python3 -m venv venv
-   #.\venv\Scripts\activate
+   # for Windows:
+   # python -m venv venv
+   #.\venv\Scripts\activate.bat
    ```
 3. Зайти в папку neural-style:
    ```
